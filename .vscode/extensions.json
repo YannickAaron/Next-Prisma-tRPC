@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "kossnocorp.vscode-mjml-template-literal",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg",
+    "orta.vscode-jest",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-german",
+    "wix.vscode-import-cost",
+    "prisma.prisma"
+  ]
+}

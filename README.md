@@ -1,12 +1,14 @@
-# Minimal Next-Prisma-tRPC Setup
+# Next13-Prisma-TRPC
+Basic setup of a Next.js app with Prisma and TRPC for typesafe API endpoints.
 
-This repository tries to give a minimal setup of a nextjs webapp.
+## Project structure
+- .vscode
+  - settings.json - VSCode settings
 
-It tries to give an introduction to PRISMA, TRPC using Nextjs.
+## Docs
+- [Next.js](https://nextjs.org/docs)
+- [Prisma](https://www.prisma.io/docs)
+- [TRPC](https://trpc.io/docs/introduction)
 
-Uses:
-- Nextjs 13
-- TRPC 10
-- PRISMA
-- POSTGRES (DOCKER)
-- NEXTUI
+## What I did
+1. Initialize a Next.js app with `yarn create next-app --typescript`
